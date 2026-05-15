@@ -1,2 +1,5 @@
-# DeRitis
-DeRitis telescope settings and instruments
+# DeRitis 
+
+## INDEX
+- Spectrograph
+---
