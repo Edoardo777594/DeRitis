@@ -1,5 +1,15 @@
-# DeRitis 
+# DeRitis - instruments and settings
+
+---
+
 
 ## INDEX
-- Spectrograph
+- [Camera](#camera)
+- [Spectrograph](#spectrograph)
+
 ---
+
+## Camera
+
+
+## Spectrograph 
